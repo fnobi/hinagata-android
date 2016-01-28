@@ -1,4 +1,4 @@
-package com.fnobi.trellotrigger;
+package com.fnobi.hinagataAndroid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

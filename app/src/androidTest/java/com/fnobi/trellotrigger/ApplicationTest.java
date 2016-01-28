@@ -1,4 +1,4 @@
-package com.fnobi.trellotrigger;
+package com.fnobi.hinagataAndroid;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
