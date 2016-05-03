@@ -4,8 +4,6 @@ import io.realm.RealmObject;
 
 public class StorageItem extends RealmObject {
     
-    public final static String DB_NAME = "hinagata-android-db";
-    
     private int id;
     private String title;
 
